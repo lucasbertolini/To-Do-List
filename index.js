@@ -16,7 +16,7 @@ window.addEventListener('DOMContentLoaded', ()=>{
     
         //cria botão concluido
         btn.setAttribute('class', 'button');
-        btn.innerHTML = 'Concluido';
+        btn.innerHTML = 'Concluir';
         listElement.appendChild(btn)
         //cria botão remover
         btnCancel.setAttribute('class', 'button');
